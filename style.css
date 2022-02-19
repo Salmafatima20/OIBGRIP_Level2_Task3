@@ -1,0 +1,8 @@
+.container{
+    background-image: url("https://360assignments.com/wp-content/uploads/2019/11/write-an-assignment.jpg");
+    background-size: 100%;
+    
+    position: sticky;
+    
+    height: 100vh;
+}
